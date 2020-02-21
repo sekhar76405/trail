@@ -6,7 +6,7 @@ using namespace std;
 
 class fact
 {
-    int x,prod=1;
+    int prod=1;
     public :
     fact(){}
     
