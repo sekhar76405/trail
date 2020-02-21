@@ -28,7 +28,7 @@ class fact
         }
         else
         {
-            return factorial(a-1);
+            return factorial(a-1);		//function recursion
         }
     }
     ~fact(){}
