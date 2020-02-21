@@ -15,7 +15,7 @@ class fact
       cout<<"\nThe factorial of the number is : "<<factorial(a);       //calling the fuction with the arg
     }
     
-    int factorial(int a)
+    int factorial(int a) 		//defining the function
     {
         prod=prod*a;
         if(a==1)
