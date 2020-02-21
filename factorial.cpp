@@ -12,7 +12,7 @@ class fact
     
     fact(int a)
     {
-      cout<<"\nThe factorial of the number is : "<<factorial(a);
+      cout<<"\nThe factorial of the number is : "<<factorial(a);       //calling the fuction with the arg
     }
     
     int factorial(int a)
