@@ -1,3 +1,8 @@
+//Hansel and Gretel are going to split the pizza in half so that each of them gets a complete pizza "half-circle" or, in other words, four consecutive pieces.
+
+//Gretel really likes mushrooms and wants to get as many as she can. Given the fact that some pizza slices contain less and some more mushrooms, Gretel has asked Hansel to split the pizza so that her pieces contain as many mushrooms as possible.
+//Help Hansel and Gretel! They will tell you how many mushrooms there are on each of the eight pizza slices, and your job is to find the largest total number of mushrooms Gretel can get.
+
 #include<iostream>
 using namespace std;
 
