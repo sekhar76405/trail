@@ -71,7 +71,7 @@ if __name__ == '__main__':
             a1=a()
             print ("a Distance = %.lf cm" % a1)
             
-            if (dist <= a1) :
+            if (dist-a1<=2) :
                 print("")
             else:  
                 #create objects that refer to a button,
